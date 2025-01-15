@@ -1,6 +1,6 @@
 # RemoveNote - 注释清理工具
 
-**RemoveNote** 是一个用于批量清理代码文件中注释的工具，适用于交付项目时清除冗余注释，支持多种文件类型（如 Java、HTML、YAML、JavaScript、TypeScript 等）拥有 URL 跳过选项。提供用户友好的图形界面和多种配置选项，开箱即用，支持跨平台。。
+**RemoveNote** 是一个用于批量清理代码文件中注释的工具，适用于交付项目时清除冗余注释，支持多种文件类型（如 Java、HTML、YAML、JavaScript、TypeScript 等）拥有 URL 跳过选项。提供用户友好的图形界面和多种配置选项，开箱即用，支持跨平台。
 
 ## 功能特性
 
