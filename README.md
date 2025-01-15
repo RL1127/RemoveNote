@@ -18,7 +18,7 @@
 
 ### 1. 下载
 
-从 [Releases 页面](https://github.com/your-username/RemoveNote/releases) 下载适合的版本：
+从 [Releases 页面](https://github.com/RL1127/RemoveNote/releases/tag/untagged-06184f08df174be885a2) 下载适合的版本：
 
 - **Windows EXE 文件**：`RemoveNote.exe`
 - **跨平台 JAR 文件**：`RemoveNote-1.0-SNAPSHOT.jar`
