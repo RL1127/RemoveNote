@@ -1,0 +1,109 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\27253\Desktop\RemoveNote\RemoveNote.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\27253\Desktop\RemoveNote\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	1.008.009
+Substitute:	JAVA_HOME = D:\Program Files\Java\jdk-21
+Substitute:	PATH = D:\Program Files\VM\bin\;D:\Program Files\Python310\Scripts\;D:\Program Files\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Bandizip\Bandizip;C:\Program Files\dotnet\;D:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Program Files\Java\jdk-21\bin;D:\Anaconda;D:\Anaconda\Scripts;D:\Anaconda\Library\bin;D:\Anaconda\condabin;D:\Redis;D:\Program Files\sonar\sonar-scanner\sonar-scanner-5.0.1.3006-windows\bin;C:\Users\27253\AppData\Roaming\npm;D:\Program Files\node\node_global;D:\Program Files\微信开发者工具\微信web开发者工具\dll;D:\Program Files\nvm\nvm;%N;M_SYMLINK%;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server Migration Assistant for Access\bin\;C:\;rogram Files\Tailscale\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\Program Files\vivo办公套件\pcsuite\;C:\;rogram Files\Docker\Docker\resources\bin;D:\Git\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Tailscale\;D:\Program Files\Go\bin;C:\Users\27253\AppData\Local\Microsoft\WindowsApps;C:\\Users\\27253\\AppData\\Local\\JetBrains\\Toolbox\\scripts;C:\Program Files\mongodb-win32-x86_64-windows-5.0.14\bin;C:\Program Files\nodejs;D:\Program Files\vscode\Microsoft VS Code\bin;D:\Program Files\cpolar\;D:\ProgramData\JavaMaven\apache-maven-3.9.9\bin;C:\Users\27253\AppData\Local\GitHubDesktop\bin;C:\Users\27253\go\bin;D:\Program Files\Java\jdk-21\bin
+JRE paths:	D:\Program Files\Java\jdk-21;D:\Program Files\VM\bin\;D:\Program Files\Python310\Scripts\;D:\Program Files\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Bandizip\Bandizip;C:\Program Files\dotnet\;D:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Program Files\Java\jdk-21\bin;D:\Anaconda;D:\Anaconda\Scripts;D:\Anaconda\Library\bin;D:\Anaconda\condabin;D:\Redis;D:\Program Files\sonar\sonar-scanner\sonar-scanner-5.0.1.3006-windows\bin;C:\Users\27253\AppData\Roaming\npm;D:\Program Files\node\node_global;D:\Program Files\微信开发者工具\微信web开发者工具\dll;D:\Program Files\nvm\nvm;%N;M_SYMLINK%;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server Migration Assistant for Access\bin\;C:\;rogram Files\Tailscale\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\Program Files\vivo办公套件\pcsuite\;C:\;rogram Files\Docker\Docker\resources\bin;D:\Git\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Tailscale\;D:\Program Files\Go\bin;C:\Users\27253\AppData\Local\Microsoft\WindowsApps;C:\\Users\\27253\\AppData\\Local\\JetBrains\\Toolbox\\scripts;C:\Program Files\mongodb-win32-x86_64-windows-5.0.14\bin;C:\Program Files\nodejs;D:\Program Files\vscode\Microsoft VS Code\bin;D:\Program Files\cpolar\;D:\ProgramData\JavaMaven\apache-maven-3.9.9\bin;C:\Users\27253\AppData\Local\GitHubDesktop\bin;C:\Users\27253\go\bin;D:\Program Files\Java\jdk-21\bin
+Check launcher:	D:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (Ignore)
+Check launcher:	D:\Program Files\VM\bin\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\Python310\Scripts\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\Python310\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	D:\Bandizip\Bandizip\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\MySQL\MySQL Server 8.0\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (Ignore)
+Check launcher:	D:\Anaconda\bin\javaw.exe (not found)
+Check launcher:	D:\Anaconda\Scripts\bin\javaw.exe (not found)
+Check launcher:	D:\Anaconda\Library\bin\javaw.exe (not found)
+Check launcher:	D:\Anaconda\condabin\bin\javaw.exe (not found)
+Check launcher:	D:\Redis\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\sonar\sonar-scanner\sonar-scanner-5.0.1.3006-windows\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\node\node_global\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\微信开发者工具\微信web开发者工具\dll\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\nvm\nvm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\Desktop\RemoveNote\%N\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\Desktop\RemoveNote\M_SYMLINK%\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server Migration Assistant for Access\bin\bin\javaw.exe (not found)
+Check launcher:	C:\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\Desktop\RemoveNote\rogram Files\Tailscale\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\vivo办公套件\pcsuite\bin\javaw.exe (not found)
+Check launcher:	C:\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\Desktop\RemoveNote\rogram Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	D:\Git\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Tailscale\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\Go\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\\Users\\27253\\AppData\\Local\\JetBrains\\Toolbox\\scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mongodb-win32-x86_64-windows-5.0.14\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\vscode\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\cpolar\bin\javaw.exe (not found)
+Check launcher:	D:\ProgramData\JavaMaven\apache-maven-3.9.9\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Users\27253\go\bin\javaw.exe (not found)
+Check launcher:	D:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\21.0.1
+Version string: 1.021.000_001 / 64-Bit (Ignore)
+Ignore:		1.021.000_001
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+32-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.8.0 - 1.8.9
+
+
+Version:	3.50
+CmdLine:	C:\Users\27253\Desktop\RemoveNote\RemoveNote.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\27253\Desktop\RemoveNote\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000_000
+Java max ver:	1.021.000_001
+Substitute:	JAVA_HOME = D:\Program Files\Java\jdk-21
+Substitute:	PATH = D:\Program Files\VM\bin\;D:\Program Files\Python310\Scripts\;D:\Program Files\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Bandizip\Bandizip;C:\Program Files\dotnet\;D:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Program Files\Java\jdk-21\bin;D:\Anaconda;D:\Anaconda\Scripts;D:\Anaconda\Library\bin;D:\Anaconda\condabin;D:\Redis;D:\Program Files\sonar\sonar-scanner\sonar-scanner-5.0.1.3006-windows\bin;C:\Users\27253\AppData\Roaming\npm;D:\Program Files\node\node_global;D:\Program Files\微信开发者工具\微信web开发者工具\dll;D:\Program Files\nvm\nvm;%N;M_SYMLINK%;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server Migration Assistant for Access\bin\;C:\;rogram Files\Tailscale\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\Program Files\vivo办公套件\pcsuite\;C:\;rogram Files\Docker\Docker\resources\bin;D:\Git\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Tailscale\;D:\Program Files\Go\bin;C:\Users\27253\AppData\Local\Microsoft\WindowsApps;C:\\Users\\27253\\AppData\\Local\\JetBrains\\Toolbox\\scripts;C:\Program Files\mongodb-win32-x86_64-windows-5.0.14\bin;C:\Program Files\nodejs;D:\Program Files\vscode\Microsoft VS Code\bin;D:\Program Files\cpolar\;D:\ProgramData\JavaMaven\apache-maven-3.9.9\bin;C:\Users\27253\AppData\Local\GitHubDesktop\bin;C:\Users\27253\go\bin;D:\Program Files\Java\jdk-21\bin
+JRE paths:	D:\Program Files\Java\jdk-21;D:\Program Files\VM\bin\;D:\Program Files\Python310\Scripts\;D:\Program Files\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Bandizip\Bandizip;C:\Program Files\dotnet\;D:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Program Files\Java\jdk-21\bin;D:\Anaconda;D:\Anaconda\Scripts;D:\Anaconda\Library\bin;D:\Anaconda\condabin;D:\Redis;D:\Program Files\sonar\sonar-scanner\sonar-scanner-5.0.1.3006-windows\bin;C:\Users\27253\AppData\Roaming\npm;D:\Program Files\node\node_global;D:\Program Files\微信开发者工具\微信web开发者工具\dll;D:\Program Files\nvm\nvm;%N;M_SYMLINK%;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server Migration Assistant for Access\bin\;C:\;rogram Files\Tailscale\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\Program Files\vivo办公套件\pcsuite\;C:\;rogram Files\Docker\Docker\resources\bin;D:\Git\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Tailscale\;D:\Program Files\Go\bin;C:\Users\27253\AppData\Local\Microsoft\WindowsApps;C:\\Users\\27253\\AppData\\Local\\JetBrains\\Toolbox\\scripts;C:\Program Files\mongodb-win32-x86_64-windows-5.0.14\bin;C:\Program Files\nodejs;D:\Program Files\vscode\Microsoft VS Code\bin;D:\Program Files\cpolar\;D:\ProgramData\JavaMaven\apache-maven-3.9.9\bin;C:\Users\27253\AppData\Local\GitHubDesktop\bin;C:\Users\27253\go\bin;D:\Program Files\Java\jdk-21\bin
+Check launcher:	D:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	D:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\Users\27253\Desktop\RemoveNote\RemoveNote.exe"
+Args length:	55/32768 chars
+Exit code:	0
